@@ -17,5 +17,3 @@ python-dateutil==2.1
 pytz==2012j
 six==1.2.0
 wsgiref==0.1.2
-
--e git+http://github.com/errkk/gitpil#egg=PIL

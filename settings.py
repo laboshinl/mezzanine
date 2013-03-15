@@ -190,7 +190,7 @@ CACHE_MIDDLEWARE_KEY_PREFIX = PROJECT_DIRNAME
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
 ###added for s3 support
-AWS_STORAGE_BUCKET_NAME = 'hellomezz'
+AWS_STORAGE_BUCKET_NAME = 'laboshinl'
 STATIC_URL = 'http://' + AWS_STORAGE_BUCKET_NAME + '.s3.amazonaws.com/'
 
 # Absolute path to the directory static files should be collected to.
